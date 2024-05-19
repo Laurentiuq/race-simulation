@@ -36,6 +36,7 @@ Navigate through a bustling cityscape with tight corners, traffic, and unexpecte
 ### Maps
 Map 1: Canyon Circuit
 A winding track set in a canyon with elevation changes and narrow passages. Master the art of drifting to maintain speed through the curves.
+![f1](https://github.com/Laurentiuq/race-simulation/assets/99676849/953d4c93-c02b-4403-a176-a864324c13c0)
 
 Map 2: Downtown Drift
 A fast-paced urban track with long straights and sharp corners. Utilize your braking and acceleration skills to navigate through the city streets.
