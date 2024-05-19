@@ -23,11 +23,9 @@ Welcome to the Car Racing Game! This game offers an exciting racing experience w
 - Dynamic gameplay with varying difficulty levels.
 
 
-Controls
+### Controls
 Arrow Keys: Steer the car (Up to accelerate, Down to brake, Left and Right to turn).
 Spacebar: Handbrake.
-P: Pause the game.
-R: Restart the race.
 Game Scenes
 Scene 1: Near Mountain Track
 Race through a scenic mountain track with steep climbs, sharp descents, and breathtaking views. Master the art of navigating tight turns and elevation changes.
@@ -35,14 +33,14 @@ Race through a scenic mountain track with steep climbs, sharp descents, and brea
 Scene 2: Urban Uproar
 Navigate through a bustling cityscape with tight corners, traffic, and unexpected obstacles. Perfect your timing and control to come out on top.
 
-Maps
+### Maps
 Map 1: Canyon Circuit
 A winding track set in a canyon with elevation changes and narrow passages. Master the art of drifting to maintain speed through the curves.
 
 Map 2: Downtown Drift
 A fast-paced urban track with long straights and sharp corners. Utilize your braking and acceleration skills to navigate through the city streets.
 
-AI Implementation
+### AI Implementation
 The game features AI-controlled cars that use the A* pathfinding algorithm to navigate the track. The A* algorithm ensures that the AI cars find the optimal path around the track while avoiding obstacles and other cars. This creates a challenging and dynamic racing experience for the player.
 
 A* Pathfinding Algorithm
