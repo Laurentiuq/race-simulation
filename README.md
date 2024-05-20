@@ -3,14 +3,10 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Controls](#controls)
 - [Game Scenes](#game-scenes)
 - [Maps](#maps)
 - [AI Implementation](#ai-implementation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Welcome to the Car Racing Game! This game offers an exciting racing experience with multiple scenes and maps. Challenge yourself against AI-controlled cars that navigate the track using the A* pathfinding algorithm.
@@ -21,6 +17,7 @@ Welcome to the Car Racing Game! This game offers an exciting racing experience w
 - AI-controlled cars using A* algorithm for pathfinding.
 - User-friendly controls and interface.
 - Dynamic gameplay with varying difficulty levels.
+- Activates a minimal particle system upon object collision for visual effects
 
 
 ### Controls
